@@ -1,4 +1,4 @@
-const { CREATE_ORDER, CLEAR_ORDER } = require("../types");
+const { CREATE_ORDER, CLEAR_ORDER, FETCH_ORDERS } = require("../types");
 
 
 const orderReducer = (state = {}, action) => {
@@ -7,6 +7,8 @@ const orderReducer = (state = {}, action) => {
             return {order: action.payload }
         case CLEAR_ORDER:
             return { order: null}
+        case FETCH_ORDERS:
+            return {orders: action.payload }
         default:
             return state;
     }
