@@ -47,6 +47,54 @@
         "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes": ["XL", "XXL"],
         "price": 49.9
+      },
+      {
+        "_id": "sweater1",
+        "image": "/images/dress.jpeg",
+        "title": "Sweetheart-neckline Dress",
+        "description": "Short, fitted dress in a fine-knit viscose blend. Sweetheart neckline and long sleeves.",
+        "availableSizes": ["S", "M"],
+        "price": 39.99
+      },
+      {
+        "_id": "dress2",
+        "image": "/images/dress_2.jpeg",
+        "title": "Boat-neck Dress",
+        "description": "Knee-length dress in woven, crêped fabric. Boat neck, 3/4-length sleeves with button at cuffs, and a wide, removable tie belt at waist. Unlined.",
+        "availableSizes": ["XS", "S", "L"],
+        "price": 29.95
+      },
+      {
+        "_id": "dress3",
+        "image": "/images/dress_3.jpeg",
+        "title": "Lace Skater Dress",
+        "description": "Short dress in lace. Concealed zipper at back, long, slightly wider sleeves, and narrow, covered elastic at cuffs. Fitted upper section, seam at waist, and wide circle skirt. Lined.",
+        "availableSizes": ["XS", "M", "L", "XL"],
+        "price": 69.99
+      },
+      {
+        "_id": "dress4",
+        "image": "/images/dress_4.jpeg",
+        "title": "Knee-length Dress",
+        "description": "Knee-length dress in soft jersey with a slight sheen. Round neckline with a small opening and twisted detail at front, long sleeves with narrow cuffs, and a seam at waist. Unlined.",
+        "availableSizes": ["S", "M", "L"],
+        "price": 29.99
+      },
+      {
+        "_id": "dress5",
+        "image": "/images/dress_5.jpeg",
+        "title": "Draped Dress",
+        "description": "Fitted, calf-length dress in viscose jersey. Stand-up collar and concealed zipper at back. Double layer at top with wrapover, draped sections. Close-fitting, extra-long sleeves and an asymmetric skirt with high slit at one side. Lined.",
+        "availableSizes": ["XS", "M", "XL"],
+        "price": 39.99
+      },
+      {
+        "_id": "dress6",
+        "image": "/images/dress_6.jpeg",
+        "title": "Satin Wrap-front Dress",
+        "description": "Short dress in satin with a printed pattern. Double-layered mock turtleneck, concealed zipper at back, and long puff sleeves. Seam at waist and wrapover skirt with pleats and attached ties at one side. Unlined.",
+        "availableSizes": ["XS", "S", "M", "XL", "XXL"],
+        "price": 19.99
       }
     ]
   }
