@@ -16,11 +16,11 @@ After working for the Web Customer Service Department of a high-end retail store
 
 - Main Page: 
 
--<img src="/images/MainPage.png" alt="Shopping Cart" width=370>
+-<img src="/public/images/MainPage.png" alt="Shopping Cart" width=370>
 
 - Admin: 
 
--<img src="/images/Admin.png" alt="Shopping Cart" width=370>
+-<img src="/public/images/Admin.png" alt="Shopping Cart" width=370>
 
 
 
