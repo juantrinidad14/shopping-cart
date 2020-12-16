@@ -35,3 +35,5 @@ After working for the Web Customer Service Department of a high-end retail store
 
 - Juan Trinidad - [juantrinidad] (https://github.com/juantrinidad14)
 
+Project Link: https://shopping-cart-test1.herokuapp.com/
+
